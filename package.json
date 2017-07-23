@@ -1,6 +1,6 @@
 {
   "name": "clipboard-hidden",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "puts some hidden chars into your clipboard",
   "main": "index.js",
   "bin": "index.js",
